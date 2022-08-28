@@ -1,6 +1,6 @@
 # Computer Science Assignment Report
 
-Here are some of my reports of assignments that I participated in during my learning at Bach Khoa University (**HCMUT**)
+Here are some of my assignment reports that I participated in during my learning at Bach Khoa University (**HCMUT**)
 
 About source code of assignments, I do not upload here because of private license.
 
